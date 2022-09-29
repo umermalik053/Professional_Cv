@@ -9,7 +9,10 @@
 }
 
 body {
-  background: #585c68;
+
+  background-image: url(./bgm.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-size: 14px;
   line-height: 22px;
   color: #555555;
